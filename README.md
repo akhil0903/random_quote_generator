@@ -1,5 +1,5 @@
 #DEMO
-https://spectacular-pastelito-51e720.netlify.app
+https://randmqoute.netlify.app/
 
 # Getting Started with Create React App
 
